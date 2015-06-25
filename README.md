@@ -28,7 +28,7 @@ This project was born during a workshop given at [Lamba Labs - Beirut Hacker Spa
 
 ![alt text](http://blog.donaldderek.com/wp-content/uploads/2013/06/front_end_raspberry_pi_tv.png "RaspberryPi TV")
 
-Find the orignal post on my [blog](http://blog.donaldderek.com/2013/06/build-your-own-google-tv-using-raspberrypi-nodejs-and-socket-io/)
+Find the original post on my [blog](http://blog.donaldderek.com/2013/06/build-your-own-google-tv-using-raspberrypi-nodejs-and-socket-io/)
 
 ###Interesting Forks
 -------------------
